@@ -6,7 +6,7 @@ title: "Meet The Developers!"
 ## The Team
 
 ### Justin Yip
-![](images/justin.jpg)
+![](assets/images/justin.jpg)
 
 Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.
 
