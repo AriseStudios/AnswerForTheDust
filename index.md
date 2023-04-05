@@ -1,3 +1,8 @@
+---
+permalink: /home/
+title: "Home"
+---
+
 ## Table of Contents
 - [Overview](#overview)
 - [Development](#development)
