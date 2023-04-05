@@ -1,5 +1,3 @@
-# An Answer for the Dust
-
 ## Table of Contents
 - [Overview](#overview)
 - [Development](#development)
