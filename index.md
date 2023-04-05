@@ -6,7 +6,7 @@ title: "Home"
 ## Table of Contents
 - [Overview](#overview)
 - [Development](#development)
-- [Dev Diary](#dev-diary)
+- [Builds](#builds)
 
 ## Overview
 
