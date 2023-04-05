@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Meet The Developers!"
 ---
 
 ## The Team
