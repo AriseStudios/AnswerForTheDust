@@ -6,7 +6,7 @@ title: "Meet The Developers!"
 ## The Team
 
 ### Justin Yip
-![](assets/images/justin.jpg)
+![](/assets/images/justin.jpg)
 
 Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.
 
@@ -17,7 +17,7 @@ Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoy
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-yip-bb305421b?original_referer=)
 
 ### Kuliakaiwikuamoo (Kaiwi) Akioka
-![](assets/images/kaiwi.jpg)
+![](/assets/images/kaiwi.jpg)
 
 I am an aspiring functional adult who's main focus at the moment is graduating this semester. On the team I focus on boss design and helping where I can. I am also working with Justin on composing an OST. In my free time, I do judo and jiu jitsu, I also play games.
 
@@ -29,7 +29,7 @@ I am an aspiring functional adult who's main focus at the moment is graduating t
 
 ### Cris Javier
 
-![](assets/images/crisj.jpg)
+![](/assets/images/crisj.jpg)
 
 Meet our talented programmer who is a crucial member of our development team! With a passion for all things Dungeons and Dragons, reading, and ramen, they bring a unique perspective to our projects. As the website developer and UI specialist, they are responsible for creating, monitoring, and updating our website, as well as ensuring that our game's user interface is intuitive and engaging. With their exceptional programming skills and attention to detail, our team is confident that we can continue to create amazing games that our players will love.
 
