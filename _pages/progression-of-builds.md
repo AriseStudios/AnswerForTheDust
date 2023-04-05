@@ -1,6 +1,6 @@
 ---
 title: "Progression of Builds"
-permalink: /Progression-of-Builds/
+permalink: /progression-of-builds/
 author_profile: true
 ---
 
