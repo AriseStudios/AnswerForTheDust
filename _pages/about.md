@@ -3,6 +3,44 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## The Team
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### Justin Yip
+![](images/justin.jpg)
+
+Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jyip808@hawaii.edu)
+<br>
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://jyip808.github.io/)
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-yip-bb305421b?original_referer=)
+
+### Kuliakaiwikuamoo (Kaiwi) Akioka
+![](images/kaiwi.jpg)
+
+I am an aspiring functional adult who's main focus at the moment is graduating this semester. On the team I focus on boss design and helping where I can. I am also working with Justin on composing an OST. In my free time, I do judo and jiu jitsu, I also play games.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kakioka@hawaii.edu)
+<br>
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://kakioka.github.io/)
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/changeme/)
+
+### Cris Javier
+
+![](images/crisj.jpg)
+
+Meet our talented programmer who is a crucial member of our development team! With a passion for all things Dungeons and Dragons, reading, and ramen, they bring a unique perspective to our projects. As the website developer and UI specialist, they are responsible for creating, monitoring, and updating our website, as well as ensuring that our game's user interface is intuitive and engaging. With their exceptional programming skills and attention to detail, our team is confident that we can continue to create amazing games that our players will love.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](crisj@hawaii.edu)
+<br>
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://crisjavier.github.io)
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisj?original_referer=)
+
+### William Kane
+
+A talented artist and sprite designer, who brings their passion for video games and art to our development team. With their keen eye for detail and creative flair, they are responsible for designing and creating the amazing graphics and sprites that bring our games to life. Their ability to translate complex ideas into stunning visuals has been invaluable to our team, and their work has earned them a reputation as a true artist in the industry. Whether it's crafting intricate character designs or creating vibrant backgrounds, our artist and sprite designer never fails to deliver exceptional work that exceeds our expectations. We're lucky to have them on our team and look forward to seeing the incredible creations they will bring to our future projects.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wkkane@hawaii.edu)
