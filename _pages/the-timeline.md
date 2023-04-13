@@ -1,6 +1,6 @@
 ---
-title: "Progression of Builds"
-permalink: /progression-of-builds/
+title: "The Timeline"
+permalink: /the-timeline/
 author_profile: true
 ---
 
@@ -9,7 +9,9 @@ author_profile: true
 ### Older Build (3/7/2023 - 3/19/2023)
 
 ![](/AnswerForTheDust/assets/images/oldgamesample1.png)
+
 ![](/AnswerForTheDust/assets/images/oldgamesample2.png)
+
 ![](/AnswerForTheDust/assets/images/oldupgradeshop.png)
 
 ### Current Build
@@ -17,7 +19,9 @@ author_profile: true
 #### Screencaps (3/19/2023)
 
 ![](/AnswerForTheDust/assets/images/gamesample1.png)
+
 ![](/AnswerForTheDust/assets/images/gamesample2.png)
+
 ![](/AnswerForTheDust/assets/images/gamesample3.png)
 
 #### Upgrade Shop (3/19/2023)
