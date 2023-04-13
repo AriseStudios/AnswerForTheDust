@@ -20,7 +20,7 @@ Get ready to blast your way through hordes of undead in this pulse-pounding top-
 ---
 <figure class="video_container">
   <video controls="true">
-    <source src="/assets/images/sample-gameplay.mp4" type="video/mp4">
+    <source src="assets/images/sample-gameplay.mp4" type="video/mp4">
   </video>
 </figure>
 ---
