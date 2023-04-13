@@ -1,8 +1,8 @@
 main:
   - title: "The Game"
     url: https://dustpending.github.io/pending.zombies.io/
-  - title: "Posts"
-    url: /posts/
+  - title: "Dev Diary"
+    url: /dev-diary/
   - title: "Progression of Builds"
     url: /progression-of-builds/
   - title: "Tags"
