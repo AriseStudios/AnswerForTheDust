@@ -18,8 +18,8 @@ Get ready to blast your way through hordes of undead in this pulse-pounding top-
 ![](assets/images/sample-gameplay1.mp4)
 
 <!-- blank line -->
-<figure class="w3-container">
-  <video controls="true" autoplay loop muted playsinline>
+<figure class="video_container">
+  <video controls="true" autoplay loop muted playsinline flex>
     <source src="assets/images/sample-gameplay1.mp4" type="video/mp4">
   </video>
  </figure>
