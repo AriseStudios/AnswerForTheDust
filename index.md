@@ -19,9 +19,7 @@ Get ready to blast your way through hordes of undead in this pulse-pounding top-
 
 ---
 <figure class="video_container">
-  <video controls="true">
-    <source src="https://drive.google.com/file/d/1P3vTYZoH2VcQwCyVTjlCbdd0KcBtgwRr/view?usp=sharing" type="video/mp4">
-  </video>
+  <iframe src="https://drive.google.com/file/d/1P3vTYZoH2VcQwCyVTjlCbdd0KcBtgwRr/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 ---
 
