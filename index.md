@@ -18,7 +18,7 @@ Get ready to blast your way through hordes of undead in this pulse-pounding top-
 ![](assets/images/sample-gameplay1.mp4)
 
 <!-- blank line -->
-  <video controls="true">
+  <video controls="true" autoplay loop muted playsinline>
     <source src="assets/images/sample-gameplay1.mp4" type="video/mp4">
   </video>
 <!-- blank line -->
