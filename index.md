@@ -19,7 +19,7 @@ Get ready to blast your way through hordes of undead in this pulse-pounding top-
 
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" autoplay loop muted playsinline auto-fit>
+  <video controls="true" autoplay loop muted playsinline style="object-fit: cover; width: 100%; height: 100%;">
     <source src="assets/images/sample-gameplay1.mp4" type="video/mp4">
   </video>
  </figure>
