@@ -19,7 +19,7 @@ Get ready to blast your way through hordes of undead in this pulse-pounding top-
 
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="assets/images/upgradeshop.png">
+  <video controls="true" allowfullscreen="true">
     <source src="assets/images/sample-gameplay1.mp4" type="video/mp4">
   </video>
 </figure>
