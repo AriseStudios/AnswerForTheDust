@@ -1,6 +1,8 @@
 ---
 title: "Projectiles and Shooting"
 last_modified_at: 2023-02-09
+categories:
+  - blog
 ---
 ![](/AnswerForTheDust/assets/images/shooting-and-projectiles.png)
 
