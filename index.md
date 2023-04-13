@@ -15,12 +15,12 @@ Society has crumbled. The World as we knew it is rotting. Strange behavior in th
 ### Game Description
 Get ready to blast your way through hordes of undead in this pulse-pounding top-down shooter! You'll need to use all your wits and skill to survive seven long days of endless zombie waves, armed only with a variety of fun and interesting items and weapons. But there's more at stake than just your own survival - your sister is counting on you to keep her safe from the zombie horde! It won't be easy - this game is tough as nails - but if you can make it through each day, you'll emerge a true survivor!
 
-![](/assets/images/sample-gameplay.mp4)
+![](https://drive.google.com/file/d/1P3vTYZoH2VcQwCyVTjlCbdd0KcBtgwRr/view?usp=sharing)
 
 ---
 <figure class="video_container">
   <video controls="true">
-    <source src="AnswerForTheDust/assets/images/sample-gameplay.mp4" type="video/mp4">
+    <source src="https://drive.google.com/file/d/1P3vTYZoH2VcQwCyVTjlCbdd0KcBtgwRr/view?usp=sharing" type="video/mp4">
   </video>
 </figure>
 ---
