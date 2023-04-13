@@ -17,6 +17,14 @@ Get ready to blast your way through hordes of undead in this pulse-pounding top-
 
 ![](/assets/images/sample-gameplay.mp4)
 
+---
+<figure class="video_container">
+  <video controls="true">
+    <source src="/assets/images/sample-gameplay.mp4" type="video/mp4">
+  </video>
+</figure>
+---
+
 ### Our Vision
 With An Answer to the Dust, our vision is to create an immersive and thrilling gaming experience that transports players into a dark and dangerous world filled with all types of zombies. We aim to deliver a game that not only challenges players with strategic combat and resource management, but also draws them in with rich storytelling and character development. Our goal is to create a game that keeps players on the edge of their seats as they navigate through treacherous environments, and confront formidable enemies. We believe that the combination of intense gameplay, atmospheric world-building, and engaging narrative will create an unforgettable experience for players that they'll want to return to again and again.
 
