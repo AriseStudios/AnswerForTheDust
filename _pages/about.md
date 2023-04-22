@@ -5,10 +5,12 @@ title: "Meet The Developers!"
 
 ## The Team
 
-### Justin Yip
-![](/AnswerForTheDust/assets/images/justin.jpg)
-
-Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.
+---
+<div style="display: flex; align-items: center;">
+  <img src="/AnswerForTheDust/assets/images/justin.jpg" alt="Justin Yip" style="width: 200px; height: auto; margin-right: 20px;">
+  <p style="flex-grow: 1;">Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.</p>
+</div>
+---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jyip808@hawaii.edu)
 <br>
