@@ -5,12 +5,12 @@ title: "Home"
 
 ## Overview
 
-![](/assets/images/startscreen.png)
+![](/assets/images/startscreen2.png)
 
 ### Synopsis
 Society has crumbled. The World as we knew it is rotting. Strange behavior in the weather finds odd particles of dust set in the very air we breath. Set during the aftermath of a zombie outbreak in the United States, the game pits a survivor and their infected little sister against hordes of the infected. Setting out to do what our primal insticts as humans urge us to do. Survive. However, due to a lapse in judgement, his little sister manages to get infected. Now must he set out to find a cure and save his sister. Hoping to somehow against all odds find an answer for the dust.
 
-![](/assets/images/instructions.png)
+![](/assets/images/instructions2.png)
 
 ### Game Description
 Get ready to blast your way through hordes of undead in this pulse-pounding top-down shooter! You'll need to use all your wits and skill to survive seven long days of endless zombie waves, armed only with a variety of fun and interesting items and weapons. But there's more at stake than just your own survival - your sister is counting on you to keep her safe from the zombie horde! It won't be easy - this game is tough as nails - but if you can make it through each day, you'll emerge a true survivor!
