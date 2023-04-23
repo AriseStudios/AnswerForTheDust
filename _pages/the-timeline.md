@@ -24,6 +24,16 @@ author_profile: true
 
 ![](/AnswerForTheDust/assets/images/gamesample3.png)
 
+### Current Build - V0.5 (4/5/2023 - Current)
+
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" autoplay loop muted playsinline style="object-fit: cover; width: 100%; height: 100%;">
+    <source src="assets/images/sample-gameplay1.mp4" type="video/mp4">
+  </video>
+ </figure>
+<!-- blank line -->
+
 #### Upgrade Shop (3/19/2023)
 
 ![](/AnswerForTheDust/assets/images/upgradeshop.png)
