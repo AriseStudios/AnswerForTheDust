@@ -6,7 +6,7 @@ author_profile: true
 
 ## Builds
 
-### Older Build (3/7/2023 - 3/19/2023)
+### v0.01 (3/7/2023 - 3/19/2023)
 
 ![](/AnswerForTheDust/assets/images/oldgamesample1.png)
 
@@ -14,7 +14,7 @@ author_profile: true
 
 ![](/AnswerForTheDust/assets/images/oldupgradeshop.png)
 
-### Current Build
+### v0.10 (3/19/2023 - 4/5/2023)
 
 #### Screencaps (3/19/2023)
 
@@ -28,15 +28,15 @@ author_profile: true
 
 ![](/AnswerForTheDust/assets/images/upgradeshop.png)
 
-### Sprites and Art
+## Sprites and Art
 
 ![](/AnswerForTheDust/assets/images/sprites.png)
 
-### Storyboard
+## Storyboard
 
 ![](/AnswerForTheDust/assets/images/Refined Stroyboard.PNG)
 
-### Work Distribution & Task Management
+## Work Distribution & Task Management
 
 #### 2/15/2023
 
