@@ -34,7 +34,7 @@ title: "Meet The Developers!"
 
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/crisj.jpg" alt="Cris Javier" style="width: 200px; height: auto; margin-right: 20px;">
-  <p style="flex-grow: 1;">Meet our talented programmer who is a crucial member of our development team! With a passion for all things Dungeons and Dragons, reading, and ramen, they bring a unique perspective to our projects. As the website developer and UI specialist, they are responsible for creating, monitoring, and updating our website, as well as ensuring that our game's user interface is intuitive and engaging.</p>
+  <p style="flex-grow: 1;">With a passion for all things Dungeons and Dragons, reading, and ramen, (I like to think) I bring a unique perspective to our projects. As the website developer and UI specialist, I'm responsible for creating, monitoring, and updating our website, as well as ensuring that our game's user interface is intuitive and engaging.</p>
 </div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](crisj@hawaii.edu)
