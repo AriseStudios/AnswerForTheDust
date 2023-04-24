@@ -29,7 +29,7 @@ author_profile: true
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" autoplay loop muted playsinline style="object-fit: cover; width: 100%; height: 100%;">
-    <source src="assets/images/sample-gameplay1.mp4" type="video/mp4">
+    <source src="/AnswerForTheDust/assets/images/sample-gameplay1.mp4" type="video/mp4">
   </video>
  </figure>
 <!-- blank line -->
