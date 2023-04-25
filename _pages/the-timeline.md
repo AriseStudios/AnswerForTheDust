@@ -14,11 +14,11 @@ author_profile: true
   <img src="/AnswerForTheDust/assets/images/oldupgradeshop.jpg" style="width: 200px; height: auto; margin-left: 20px;">
 </div>
 
-#![](/AnswerForTheDust/assets/images/oldgamesample1.png)
+![](/AnswerForTheDust/assets/images/oldgamesample1.png)
 
-#![](/AnswerForTheDust/assets/images/oldgamesample2.png)
+![](/AnswerForTheDust/assets/images/oldgamesample2.png)
 
-#![](/AnswerForTheDust/assets/images/oldupgradeshop.png)
+![](/AnswerForTheDust/assets/images/oldupgradeshop.png)
 
 ### Current Build
 
