@@ -45,6 +45,10 @@ title: "Meet The Developers!"
 
 ### William Kane
 
-A talented artist and sprite designer, who brings their passion for video games and art to our development team. With their keen eye for detail and creative flair, they are responsible for designing and creating the amazing graphics and sprites that bring our games to life. Their ability to translate complex ideas into stunning visuals has been invaluable to our team, and their work has earned them a reputation as a true artist in the industry. Whether it's crafting intricate character designs or creating vibrant backgrounds, our artist and sprite designer never fails to deliver exceptional work that exceeds our expectations. We're lucky to have them on our team and look forward to seeing the incredible creations they will bring to our future projects.
+<div style="display: flex; align-items: center;">
+  <img src="/AnswerForTheDust/assets/images/billy.jpg" alt="Billy" style="width: 200px; height: auto; margin-right: 20px;">
+  <p style="flex-grow: 1;">
+A talented artist and sprite designer, who brings their passion for video games and art to our development team. With their keen eye for detail and creative flair, they are responsible for designing and creating the amazing graphics and sprites that bring our games to life. Their ability to translate complex ideas into stunning visuals has been invaluable to our team, and their work has earned them a reputation as a true artist in the industry. Whether it's crafting intricate character designs or creating vibrant backgrounds, our artist and sprite designer never fails to deliver exceptional work that exceeds our expectations. We're lucky to have them on our team and look forward to seeing the incredible creations they will bring to our future projects.</p>
+</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wkkane@hawaii.edu)
