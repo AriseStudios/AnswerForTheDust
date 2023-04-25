@@ -9,7 +9,7 @@ author_profile: true
 ### Older Build (3/7/2023 - 3/19/2023)
 
 <div style="display: flex; align-items: center;">
-  <img src="/AnswerForTheDust/assets/images/oldgamesample1.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/oldgamesample1.png" alt="test" style="width: 300px; height: 450px; margin-right: 20px;">
   <p style="flex-grow: 1;">Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.</p>
 </div>
 
