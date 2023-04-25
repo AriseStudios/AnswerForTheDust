@@ -9,9 +9,7 @@ author_profile: true
 ### Older Build (3/7/2023 - 3/19/2023)
 
 <div style="display: flex; align-items: center;">
-  <img src="/AnswerForTheDust/assets/images/oldgamesample1.jpg" style="width: 200px; height: auto; margin-right: 20px;">
-  <img src="/AnswerForTheDust/assets/images/oldgamesample2.jpg" style="width: 200px; height: auto; ">
-  <img src="/AnswerForTheDust/assets/images/oldupgradeshop.jpg" style="width: 200px; height: auto; margin-left: 20px;">
+  <img src="/AnswerForTheDust/assets/images/oldgamesample1.jpg" alt="test" style="width: 200px; height: auto; margin-right: 20px;">
 </div>
 
 ![](/AnswerForTheDust/assets/images/oldgamesample1.png)
