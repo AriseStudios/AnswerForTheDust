@@ -10,12 +10,17 @@ author_profile: true
 
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/oldgamesample1.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <p style="flex-grow: 1;">Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.</p>
   <img src="/AnswerForTheDust/assets/images/oldgamesample2.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/oldupgradeshop.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
-  </div>
+ </div>
 
 ![](/AnswerForTheDust/assets/images/oldgamesample1.png)
 
