@@ -27,17 +27,17 @@ author_profile: true
 
 ### Build 0.5 (3/19/2023 - 4/5/2023)
 
-#### Screencaps (3/19/2023)
-
 ![](/AnswerForTheDust/assets/images/gamesample1.png)
 
 ![](/AnswerForTheDust/assets/images/gamesample2.png)
 
 ![](/AnswerForTheDust/assets/images/gamesample3.png)
 
-## Upgrade Shop (3/19/2023)
-
 ![](/AnswerForTheDust/assets/images/upgradeshop.png)
+
+### Build 0.95 (4/5/2023 - 4/22/2023)
+
+### Build 1.0 (4/22/2023 - Now)
 
 ## Sprites and Art
 
