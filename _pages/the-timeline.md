@@ -30,7 +30,7 @@ author_profile: true
   <img src="/AnswerForTheDust/assets/images/gamesample1.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
   <img src="/AnswerForTheDust/assets/images/gamesample2.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
  </div>
- 
+ <br>
  <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/gamesample3.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
  </div>
