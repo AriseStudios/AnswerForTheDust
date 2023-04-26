@@ -61,8 +61,8 @@ author_profile: true
 <!-- blank line -->
 
 <div style="display: flex; align-items: center;">
-  <img src="/AnswerForTheDust/assets/images/perkstore.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
-  <img src="/AnswerForTheDust/assets/images/shop.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/perkstore.png" alt="test" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/shop.png" alt="test" style="width: 350px; height: auto; margin-right: 20px;">
  </div>
 
 ## Sprites and Art
