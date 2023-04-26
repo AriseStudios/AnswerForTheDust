@@ -22,7 +22,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/oldupgradeshop.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
  </div>
-
+<br>
 <p style="flex-grow: 1;">Unlike the map from this build, the shop UI has stayed relatively the same! We just thought it was neat enough to keep the same and never really thought it needed much more. It did, however, become increasingly more in depth with all the new items and such that would be added.</p>
 
 ### Build 0.5 (3/19/2023 - 4/5/2023)
