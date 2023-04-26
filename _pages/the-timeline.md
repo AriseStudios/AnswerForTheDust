@@ -48,7 +48,7 @@ author_profile: true
  </div>
 <p style="flex-grow: 1;">The game shop by this point has been reworked almost entirely. The guns from build 0.1 were kept but access to them has been changed. Rather than being able to choose any of them at any time of entering the shop, the guns, as well as the upgrades were available for purchase by random chance. We dropped the generic statistic/weapon upgrades in favor of something more dynamic and visually fun with the various items. By this point, we had also planned on reworking the economy a little bit but in this build, it's not too dissimilar to the previous one.</p>
 
-### Build 0.1.5 (4/5/2023 - Now)
+### Build 0.1.6 (4/5/2023 - Now)
 
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/instructions2.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
