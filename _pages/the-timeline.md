@@ -27,12 +27,12 @@ author_profile: true
 ### Build 0.5 (3/19/2023 - 4/5/2023)
 
 <div style="display: flex; align-items: center;">
-  <img src="/AnswerForTheDust/assets/images/gamesample1.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
-  <img src="/AnswerForTheDust/assets/images/gamesample2.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/gamesample1.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/gamesample2.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
  </div>
  
  <div style="display: flex; align-items: center;">
-  <img src="/AnswerForTheDust/assets/images/gamesample3.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/gamesample3.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
  </div>
  
  <p style="flex-grow: 1;"> The item rework basically overhauled the game. The previous build was very bland and unnuanced. Progression was seen in nothing but higher damage numbers and further knockback. Nothing visually gripping. However with the introduction of 9 new items and the scrapping of the old system, Answer For The Dust found itself reinvented. With the items came new UI and sprites. The red circles now more accurately depicted the player's life as they were now hearts and not...just...generic red circles. The rest of the UI was similarly added onto to to make it more colorful and attractive to the player.
