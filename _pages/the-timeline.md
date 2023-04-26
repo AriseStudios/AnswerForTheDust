@@ -22,17 +22,20 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/oldupgradeshop.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
  </div>
-<p style="flex-grow: 1;">Unlike the map from this build, the shop UI has stayed relatively the same! We just thought it was neat enough to keep the same and never really thought it needed much more. It did, however, become increasingly more in depth with all the new items and such that would be added.</p>
+<p style="flex-grow: 1;">Unlike the map from this build, the shop UI has some of the same aspects and features we're familiar with in the current build We just thought it was neat enough to keep the same and never really thought it needed much more, although change is inevitable and as we'll see later in the timeline, the shop was not exempt from this fact. It did, however, become increasingly more in depth with all the new items and such that would be added.</p>
 
 ### Build 0.5 (3/19/2023 - 4/5/2023)
 
-![](/AnswerForTheDust/assets/images/gamesample1.png)
+<div style="display: flex; align-items: center;">
+  <img src="/AnswerForTheDust/assets/images/upgradeshop.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/upgradeshop2.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/upgradeshop3.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
+ </div>
 
-![](/AnswerForTheDust/assets/images/gamesample2.png)
-
-![](/AnswerForTheDust/assets/images/gamesample3.png)
-
-![](/AnswerForTheDust/assets/images/upgradeshop.png)
+<div style="display: flex; align-items: center;">
+  <img src="/AnswerForTheDust/assets/images/upgradeshop.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
+ </div>
+<p style="flex-grow: 1;">The game shop by this point has been reworked almost entirely. The guns from build 0.1 were kept but access to them has been changed. Rather than being able to choose any of them at any time of entering the shop, the guns, as well as the upgrades were available for purchase by random chance. We dropped the generic statistic/weapon upgrades in favor of something more dynamic and visually fun with the various items. By this point, we had also planned on reworking the economy a little bit but in this build, it's not too dissimilar to the previous one.</p>
 
 ### Build 0.95 (4/5/2023 - 4/22/2023)
 
