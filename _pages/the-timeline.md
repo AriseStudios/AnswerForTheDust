@@ -37,6 +37,15 @@ author_profile: true
 
 ### Build 0.95 (4/5/2023 - 4/22/2023)
 
+
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" autoplay loop muted playsinline style="object-fit: cover; width: 100%; height: 100%;">
+    <source src="/AnswerForTheDust/assets/images/sample-gameplay1.mp4" type="video/mp4">
+  </video>
+ </figure>
+<!-- blank line -->
+
 ### Build 1.0 (4/22/2023 - Now)
 
 ## Sprites and Art
