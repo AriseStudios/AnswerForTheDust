@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## Table of Contents
-- [Builds](#Builds)
-- [Storyboard](#Storyboard)
-- [Work Distribution & Task Management](#Work Distribution & Task Management)
+- [Builds](#builds)
+- [Storyboard](#storyboard)
+- [Work Distribution & Task Management](#work distribution & task management)
 
 ## Builds
 
