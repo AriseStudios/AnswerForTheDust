@@ -4,6 +4,11 @@ permalink: /the-timeline/
 author_profile: true
 ---
 
+## Table of Contents
+- [Builds](#Builds)
+- [Storyboard](#Storyboard)
+- [Work Distribution & Task Management](#Work Distribution & Task Management)
+
 ## Builds
 
 ### Build 0.1 (3/7/2023 - 3/19/2023)
