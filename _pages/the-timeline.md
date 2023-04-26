@@ -6,7 +6,7 @@ author_profile: true
 
 ## Builds
 
-### Older Build (3/7/2023 - 3/19/2023)
+### Build 0.1 (3/7/2023 - 3/19/2023)
 
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/oldgamesample1.png" alt="test" style="width: 500px; height: auto; margin-right: 20px;">
@@ -25,7 +25,7 @@ author_profile: true
 
 <p style="flex-grow: 1;">Unlike the map from this build, the shop UI has stayed relatively the same! We just thought it was neat enough to keep the same and never really thought it needed much more. It did, however, become increasingly more in depth with all the new items and such that would be added.</p>
 
-### Current Build
+### Build 0.5 (3/19/2023 - 4/5/2023)
 
 #### Screencaps (3/19/2023)
 
@@ -35,25 +35,25 @@ author_profile: true
 
 ![](/AnswerForTheDust/assets/images/gamesample3.png)
 
-#### Upgrade Shop (3/19/2023)
+## Upgrade Shop (3/19/2023)
 
 ![](/AnswerForTheDust/assets/images/upgradeshop.png)
 
-### Sprites and Art
+## Sprites and Art
 
 ![](/AnswerForTheDust/assets/images/sprites.png)
 
-### Storyboard
+## Storyboard
 
 ![](/AnswerForTheDust/assets/images/Refined Stroyboard.PNG)
 
-### Work Distribution & Task Management
+## Work Distribution & Task Management
 
-#### 2/15/2023
+### 2/15/2023
 
 ![](/AnswerForTheDust/assets/images/canvas-zombie.png)
 
-#### 3/18/2023
+### 3/18/2023
 
 ![](/AnswerForTheDust/assets/images/tasklist2.png)
 
