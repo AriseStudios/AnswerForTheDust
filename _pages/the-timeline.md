@@ -48,7 +48,10 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/instructions2.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
  </div>
- 
+ <br>
+ <div style="display: flex; align-items: center;">
+  <img src="/AnswerForTheDust/assets/images/ingame1.png" alt="test" style="width: 1000px; height: auto; margin-right: 20px;">
+ </div>
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" autoplay loop muted playsinline style="object-fit: cover; width: 100%; height: 100%;">
@@ -59,6 +62,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/perkstore.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/shop.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
  </div>
 
 ## Sprites and Art
