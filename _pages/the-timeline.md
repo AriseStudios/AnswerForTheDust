@@ -60,14 +60,14 @@ author_profile: true
  </figure>
 <!-- blank line -->
 
+<p style="flex-grow: 1;">The official launch build! It was a long few months but the crew finally crunched it up and were able to get the game to where it is now. The map is entirely different in that it's just one large never-ending sandbox. There are over 25 unique items in the game. The economy has been overhauled to be much more forgiving. The waves are now time based rather than a set amount of zombies every wave. With the new currencies came out of game currency with the moon coins. The sprites were redone to fit a more cohesive color pallet. Not only are there much more items, there are over twice as much guns! The UI has also been overhauled. Everything redesigned and recolored to fit the purple aesthetic. The items now provide item descriptions before purchase and actual effects after purchase. With every new build seems to come massive changes!</p>
+
 <div style="display: flex; align-items: center;">
   <img src="/AnswerForTheDust/assets/images/perkstore.png" alt="test" style="width: 350px; height: auto; margin-right: 20px;">
   <img src="/AnswerForTheDust/assets/images/shop.png" alt="test" style="width: 350px; height: auto; margin-right: 20px;">
  </div>
-
-## Sprites and Art
-
-![](/AnswerForTheDust/assets/images/sprites.png)
+<p style="flex-grow: 1;">Moon coins and the perk shop were added in due to overwhelming requests from playtesters. They felt that it would be best to incentivize replayability even more by providing boons to players who stick out with the game for an extended sitting. Killing zombies earns the player the chance to pick up moon coins from their re-deceased corpses. Coins that can only be used on new runs, but allow for a much stronger start on subsequent ones. The shop is now stocked with over 3 times as many unique items for players to pick up and experiment with in further runs. In addition to those items, we welcome a wide variety of new guns! Even though the contents and UI of the shop have changed over the builds, we've tried to keep it feeling very similar to the very first inception of the shop.
+  </p>
 
 ## Storyboard
 
@@ -82,5 +82,9 @@ author_profile: true
 ### 3/18/2023
 
 ![](/AnswerForTheDust/assets/images/tasklist2.png)
+
+### 4/26/2023
+
+![](/AnswerForTheDust/assets/images/tasklist_final.png)
 
 Please zoom in to get a clearer view of our taskboard!
