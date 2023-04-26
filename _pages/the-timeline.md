@@ -27,8 +27,8 @@ author_profile: true
 ### Build 0.5 (3/19/2023 - 4/5/2023)
 
 <div style="display: flex; align-items: center;">
-  <img src="/AnswerForTheDust/assets/images/gamesample1.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
-  <img src="/AnswerForTheDust/assets/images/gamesample2.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/gamesample1.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/gamesample2.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
  </div>
  
  <div style="display: flex; align-items: center;">
@@ -58,7 +58,7 @@ author_profile: true
 <!-- blank line -->
 
 <div style="display: flex; align-items: center;">
-  <img src="/AnswerForTheDust/assets/images/perkstore.png" alt="test" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="/AnswerForTheDust/assets/images/perkstore.png" alt="test" style="width: 300px; height: auto; margin-right: 20px;">
  </div>
 
 ## Sprites and Art
