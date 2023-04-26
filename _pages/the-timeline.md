@@ -7,7 +7,7 @@ author_profile: true
 ## Table of Contents
 - [Builds](#builds)
 - [Storyboard](#storyboard)
-- [Work Distribution & Task Management](#work-distribution-&-task-management)
+- [Task Management](#task-management)
 
 ## Builds
 
@@ -78,7 +78,7 @@ author_profile: true
 
 ![](/AnswerForTheDust/assets/images/Refined Stroyboard.PNG)
 
-## Work Distribution & Task Management
+## Task Management
 
 ### 2/15/2023
 
