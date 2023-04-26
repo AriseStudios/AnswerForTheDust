@@ -12,10 +12,10 @@ author_profile: true
   <img src="/AnswerForTheDust/assets/images/oldgamesample1.png" alt="test" style="width: 500px; height: auto; margin-right: 20px;">
 </div>
 
-<p style="flex-grow: 2;">Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.</p>
+<p style="flex-grow: 2;">This road map was part of the game for a while. Initially going to be one of 7 different maps. A different one per day. Unfortunately, due to poor time management from one of our members, we were unable to follow up on this plan. This led to this map turning into more of a stand-in for much of the development time. However, this resulted in a paradigm shift with our approach to the map. Thus leading to our current one.</p>
 
 <div style="display: flex; align-items: center;">
-  <p style="flex-grow: 1;">Aspiring game designer with a passion for storytelling. An oldie at heart. Enjoys music from the 70’s and 80’s. Occasionally draws and composes music when not working on a game. Designer, programmer, artist, and musical scorer for the team.</p>
+  <p style="flex-grow: 1;">Oops. Game Over!</p>
   <img src="/AnswerForTheDust/assets/images/oldgamesample2.png" alt="test" style="width: 500px; height: auto; margin-right: 20px;">
 </div>
 
