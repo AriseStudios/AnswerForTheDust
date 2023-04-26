@@ -3,6 +3,11 @@ permalink: //
 title: "Home"
 ---
 
+## Table of Contents
+- [Overview](#overview)
+- [Game Description](#game-description)
+- [Our Vision](#our-vision)
+
 ## Overview
 
 ![](/assets/images/startscreen2.png)
